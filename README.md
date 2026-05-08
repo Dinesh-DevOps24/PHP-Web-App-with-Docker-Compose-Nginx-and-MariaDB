@@ -1,5 +1,4 @@
 # PHP-Web-App-with-Docker-Compose-Nginx-and-MariaDB
-# PHP Web App with Docker Compose, Nginx, and MariaDB
 
 A complete containerized PHP web application setup using **Docker Compose**, **Nginx**, and **MariaDB**. This project demonstrates modern DevOps practices for deploying and managing PHP applications in isolated containers.
 
